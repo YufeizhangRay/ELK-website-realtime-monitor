@@ -1,6 +1,6 @@
 # ELK-website-realtime-monitor  
   
-## Elasticsearch + Logstash + Kibana + Nginx 网站实时监控系统 
+## Elasticsearch + Logstash + Kibana + Nginx 网站实时监控平台 
   
 ### 架构介绍  
   
